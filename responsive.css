@@ -1,0 +1,6 @@
+@media all and(max-width: 1370px) {
+    .fixed-width {
+        max-width: 90%;
+        margin: auto;
+    
+}
